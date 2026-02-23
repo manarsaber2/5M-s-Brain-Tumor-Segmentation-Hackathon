@@ -259,7 +259,7 @@ Where:
 
 ## 👥 Team 5M
 
-Built with ❤️ for the Brain Tumor Segmentation Challenge
+Built with ❤️ for the Brain Tumor Segmentation Challenge.
 
 ---
 
